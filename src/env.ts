@@ -6,8 +6,8 @@ import type { Model } from "./types"
  */
 export const defaultEnv = {
   CLIENT_GLOBAL_SETTINGS: {
-    APIKey: "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",
-    password: "111410",
+    APIKey: "",
+    password: "",
     enterToSend: true
   },
   CLIENT_SESSION_SETTINGS: {
